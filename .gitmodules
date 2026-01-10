@@ -1,6 +1,6 @@
 [submodule "dev-link-iac"]
 	path = dev-link-iac
-	url = git@github.com:bccalegari/dev-link-iac.git
+	url = https://github.com/bccalegari/dev-link-iac.git
 [submodule "dev-link-user-service"]
 	path = dev-link-user-service
-	url = git@github.com:bccalegari/dev-link-user-service.git
+	url = https://github.com/bccalegari/dev-link-user-service.git
